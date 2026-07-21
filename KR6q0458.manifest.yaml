@@ -21,12 +21,12 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0458_000.yaml, hash: 'sha256:1beaab29003c180dc770146161236c9fc7d226726d219f1cbaaa1f4aece52b01'}
+  - {seq: 0, filename: KR6q0458_000.yaml, hash: 'sha256:2c630ccee76a0625a20a0833f43457d28a01bddd05aa7136675f93f90fd82d20'}
   - {seq: 1, filename: KR6q0458_001.yaml, hash: 'sha256:da16bcc54c60adb6e563cf64eb0dfd70b4a03d4126063cf818e98c0ed4fba7f1'}
   - {seq: 2, filename: KR6q0458_002.yaml, hash: 'sha256:4f5f2cd2cfeb79c75b9ef783d29697103db0fd9bcc77aa8c7dc9df4970d91b33'}
   - {seq: 3, filename: KR6q0458_003.yaml, hash: 'sha256:402841b62b3dcce8203c0cda44fe59d773bb7ac8188800de371af6101757efdf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0458_000.markers.yaml, hash: 'sha256:b3619d236911af1542101a5b997d3f30cba262ff0884f864f5414eb9a812285a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0458_000.markers.yaml, hash: 'sha256:33fba2ead5a1e027d9f50b29e8843c9bbd9e16003358fafd6950aadad974f073'}
   - {seq: 1, role: markers, filename: assets/KR6q0458_001.markers.yaml, hash: 'sha256:dff46625dad91deb02d61df06865c4cb03371e2404f219e7e11fa2698d448d7c'}
   - {seq: 2, role: markers, filename: assets/KR6q0458_002.markers.yaml, hash: 'sha256:11a380a5c8d83a6ff717df5d5a3950edbdce29faf358a9119bbb6797e4ef4a10'}
   - {seq: 3, role: markers, filename: assets/KR6q0458_003.markers.yaml, hash: 'sha256:4c657a0a83515fd4989764acb26762bb3999cdbbdcadb7d4ac4ae8138bf545a5'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目錄
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-2
     span:
-    - front
+    - body
     - 46
     - 46
   label: 請啟
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-3
     span:
-    - front
+    - body
     - 56
     - 56
   label: 眾護法宰官請啟
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-4
     span:
-    - front
+    - body
     - 383
     - 383
   label: 眾護法孝廉文學請啟
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-5
     span:
-    - front
+    - body
     - 746
     - 746
   label: 諸寺方丈暨眾耆宿請啟
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0458_J_000-mulu-6
     span:
-    - front
+    - body
     - 1068
     - 1068
   label: 監院請啟
@@ -791,7 +791,7 @@ table_of_contents:
   label: 和中峰禪師懷淨土詩
   type: mulu
   level: 1
-hash: sha256:f24f3b96f078cf9244f416f01aec1428bc6de378b134a3a5721e332a058709ec
+hash: sha256:12d8b70e7315dc8e9ae8f2a32d3e880fb05685da717414dfda21ea54cc0fc0e3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
